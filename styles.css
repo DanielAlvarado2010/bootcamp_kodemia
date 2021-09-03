@@ -1,0 +1,39 @@
+/*Este es mi archivo de estilos de CSS*/
+
+h1 {
+    color: red;
+}
+h2 {
+    color:green;
+}
+p{
+    font-size: 80%;
+}
+body{
+    /*background*/
+    background-color: #555a10;
+
+    background-color: rgb(150, 25, 47);
+}
+
+/*Selectores de ID*/
+/*proridad
+        Estilos inline (En la misma hoja del HTML)
+        Estilo con selector ID
+        Estilo con selector de clase
+        Estilo con selector de etiqueta*/
+#parrafo1 {
+    color: blue;
+}
+#parrafo2 {
+    color: purple;
+}
+
+/*Definir estilos de la clase caja*/
+.caja {
+    border: 1px solid #fff;
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+}
