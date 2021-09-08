@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.bg {
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/5a27cb25-33a9-4bcc-b441-95fefabcbd37/18ac9873-558c-49b8-8ae5-eb42c9da346a/MX-es-20210823-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    min-height: 450px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    font-family: 'Open Sans', sans-serif, 'Times New Roman';
+    height: 100%;
+    width: 100%;
+    box-shadow: inset 120px 100px 250px #000000, inset -120px -100px 250px #000000;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    color: rgb(228, 224, 224);
+    width: 100%;
+    min-height: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.enlaces-container {
+    background-color: #e50914;
+    line-height: normal;
+    padding: 7px 17px;
+    font-weight: 400;
+    font-size: 1rem;
+    text-decoration: none;
+    color: white;
+}
+
+.button-variant {
+    background: black;
+    line-height: normal;
+    padding: 5px 14px;
+    margin: 0 40px 0 0;
+    font-weight: 400;
+    font-size: 1rem;
+    text-decoration: none;
+    color: rgb(219, 217, 217);
+}
+
+.netflix {
+    padding-top: 25px;
+    width: 180px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;   
+}
+
+.logo-container {
+    width: 20px;
+}
+
+.ofertas1{
+    background: black;
+    color: rgb(230, 225, 225);
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    width: 100%;
+    margin: 0;
+    align-items: center;
+    border-top: solid 15px;
+    border-bottom: solid 15px;
+    border-color:rgb(95, 91, 91);
+}
+
+.ofertas2 {
+    background: black;
+    color: rgb(230, 225, 225);
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    width: 100%;
+    margin: 0;
+    align-items: center;
+    border-bottom: solid 15px;
+    border-color:rgb(95, 91, 91);
+}
+
+.ofertas3 {
+    background: black;
+    color: rgb(230, 225, 225);
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    width: 100%;
+    margin: 0;
+    align-items: center;
+    border-bottom: solid 15px;
+    border-color:rgb(95, 91, 91);
+}
+
+.ofertas4 {
+    background: black;
+    color: rgb(230, 225, 225);
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    width: 100%;
+    margin: 0;
+    align-items: center;
+    border-bottom: solid 15px;
+    border-color:rgb(95, 91, 91);
+}
+
+
+h1, h3{
+    padding: 20px 80px ;
+}
+
+button {
+    background: red;
+    padding: 10px;
+    color: white;    
+}
+input {
+    padding: 10px;
+}
+
+body {
+    width: 100%;
+}
+
+.whole {
+    width: 100%;
+}
+
+.img1, .img2, .img3, .img4 {
+    max-width: 450px;
+}
+

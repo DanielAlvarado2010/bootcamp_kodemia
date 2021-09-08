@@ -1,0 +1,44 @@
+@media (min-width:320px) and (max-width:480px) {
+    .ofertas1, .ofertas3 {
+        flex-wrap:wrap;
+}
+    .ofertas2, .ofertas4 {
+        flex-wrap: wrap-reverse;
+    }
+    .img1, .img2, .img3, .img4 {
+        width: 100%;
+}
+
+h1{
+    padding-top: 1.5em;
+}
+.netflix {
+    width: 5em;
+    padding-top: 15px;
+}
+
+.button-variant {
+    margin: 0 1.4em;  
+    font-size: 0.8em;
+
+}
+
+.enlaces-container {
+    font-size: 0.8em;
+    color: white;
+}
+
+h1 {
+    padding: 0.8em;
+    text-align: center;
+}
+
+h3, h4 {
+    padding: 0.4em 1.2em;
+    text-align: center;
+}
+
+.input-row {
+    margin: 2em;
+}
+}
