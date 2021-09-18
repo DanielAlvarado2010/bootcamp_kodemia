@@ -1,0 +1,16 @@
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.bg-dark {
+    background-color: rgb(11, 11, 51) !important;
+}
+
+.logo {
+    width: 20%;
+}
+
+body {
+    background: rgb(136, 148, 187);;
+}
