@@ -1,4 +1,4 @@
-h2 {
+h2, h4 {
     text-align: center;
     color: white;
 }
@@ -13,4 +13,18 @@ h2 {
 
 body {
     background: rgb(136, 148, 187);;
+}
+
+.fachada {
+    text-align: center;
+    width: 90%;
+    margin-bottom: 50px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(https://w7.pngwing.com/pngs/157/606/png-transparent-arrow-traffic-sign-computer-icons-left-arrow-angle-text-triangle.png);
+}
+
+.carousel-control-next-icon {
+    background-image: url(https://previews.123rf.com/images/speedfighter/speedfighter0907/speedfighter090700071/5164124-se%C3%B1alizaci%C3%B3n-de-la-carretera-de-tr%C3%A1fico-con-la-flecha-a-la-derecha-.jpg);
 }
